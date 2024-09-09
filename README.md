@@ -1,4 +1,4 @@
-<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmaacviet-arena.vn%2Fcong-nghe-thong-tin-gom-nhung-chuyen-nganh-nao%2F&psig=AOvVaw35b05lM3JKeG5Oj-WyEdvd&ust=1725957085483000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjl86W5tYgDFQAAAAAdAAAAABAE)"> </div>
+<div align="center"> <img src="https://res.cloudinary.com/dvzingci9/image/upload/v1691682049/Personal_Branding/Frame_164_meg7rg.png"> </div>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Trí!;" />
