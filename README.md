@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="[https://cdn.pixabay.com/photo/2019/07/08/06/52/programming-4326223_960_720.jpg](https://media.licdn.com/dms/image/v2/D5616AQGgiIPMuGFRvA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693118890497?e=2147483647&v=beta&t=YrnlbNyV9-6AL3_PAp8uiMgcgEVrD1XgEt6Xl8YjbnI)">
+  <img src="https://media.licdn.com/dms/image/v2/D5616AQGgiIPMuGFRvA/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1693118890497?e=2147483647&v=beta&t=YrnlbNyV9-6AL3_PAp8uiMgcgEVrD1XgEt6Xl8YjbnI">
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Minh+Trí!;" />
